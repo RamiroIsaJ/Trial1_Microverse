@@ -9,3 +9,25 @@
 #finalText{
     text-align: center;
 }
+
+.rob1{
+    border-radius: 5%;
+}
+
+@media (max-width: 576px){
+    .contenedor{
+        width: 80%;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    iframe {
+        width: 260px;
+        height: 300px;
+    }
+
+    .rob1{
+        width: 300px;
+    }
+
+}
